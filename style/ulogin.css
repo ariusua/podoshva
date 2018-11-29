@@ -1,0 +1,64 @@
+.ulogin_profile {
+	margin-bottom: 20px;
+}
+.ulogin-block {
+	text-align: center;
+}
+.ulogin-block > div {
+	display: inline-block;
+}
+.ulogin-block .ulogin-text {
+    vertical-align: -webkit-baseline-middle;
+    margin: 2px 0 0 0;
+}
+.ulogin_accounts {
+    margin: 10px 5px;
+    text-align: center;
+    min-height: 40px;
+}
+.ulogin_form {
+    display: inline-block;
+    line-height: 1em;
+}
+.ulogin_note {
+    font-size: 14px;
+    color: #A9A9A9;
+    margin: 15px 0 0 0;
+    text-align: center;
+}
+.panel.ulogin_panel {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+.panel.ulogin_panel .panel-heading {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: none;
+    padding: 10px 0;
+    font-weight: 700;
+    text-align: center;
+}
+.panel.ulogin_panel .add-account  {
+}
+.panel.ulogin_panel .delete-account {
+}
+.ulogin_provider {
+    margin-right: 10px;
+    display: inline-block;
+    cursor: pointer;
+    /*float: left;*/
+}
+.ulogin_provider:hover {
+    opacity: 0.75;
+}
+.ulogin_right {
+    float: right;
+}
+.ulogin-dropdown {
+    z-index: 11003 !important;
+}
+.account-login .panel.ulogin_panel {
+    text-align: center;
+}
